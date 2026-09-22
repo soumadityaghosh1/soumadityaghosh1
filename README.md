@@ -140,6 +140,16 @@ A blue-themed personal site with internships, projects, a certificate gallery, a
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=soumadityaghosh1&layout=compact&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&border_color=1e3a8a&hide_border=false&card_width=400" width="48%" alt="Top languages" />
 
+<br/><br/>
+
+### 📈 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumadityaghosh1/soumadityaghosh1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumadityaghosh1/soumadityaghosh1/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/soumadityaghosh1/soumadityaghosh1/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution graph with snake animation, generated daily from real activity" />
+</picture>
+
 </div>
 
 <br/>
