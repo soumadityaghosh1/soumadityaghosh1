@@ -89,7 +89,7 @@ A blue-themed personal site with internships, projects, a certificate gallery, a
 
 `React` `TypeScript` `Tailwind CSS` `Framer Motion`
 
-[📂 GitHub Repo](https://github.com/soumadityaghosh1/portfolio)
+[🔗 Live Site](https://soumaditya-ghosh.antideploy.com) · [📂 GitHub Repo](https://github.com/soumadityaghosh1/portfolio)
 
 </td>
 </tr>
@@ -208,7 +208,7 @@ while curious:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soumadityaghosh1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumadityaghosh92@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soumaditya_ghosh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://github.com/soumadityaghosh1/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://soumaditya-ghosh.antideploy.com)
 
 **Open to internships, collaborations and hackathon teams. Let’s build something meaningful! 💡**
 
